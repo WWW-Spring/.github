@@ -5,4 +5,4 @@
 - Frontend: React, React Native  
 - AI/ML: Python microservices for recommendations  
 
-📌 Team: Hải Đăng, Khôi Nguyên, Thạch, ...
+📌 Team:  Đăng,  Nguyên, Thạch, Phú, Nghĩa, Sơn, Vũ
