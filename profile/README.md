@@ -19,5 +19,8 @@ AI chat bot hỗ trợ tư vấn sản phẩm
 
 👉 [Xem thống kê chi tiết](https://next.ossinsight.io/analyze/WWW-Spring?period=past_12_months#overview)
 
-![chart](https://api.ossinsight.io/analyze/WWW-Spring/contributions.png)
+## Organization Stats
+
+[Dashboard thống kê commit](https://ossinsight.io/analyze/WWW-Spring)
+
 
