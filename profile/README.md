@@ -14,3 +14,9 @@ AI chat bot hỗ trợ tư vấn sản phẩm
 
 
 📌 Team:  Đăng(vipro),  Nguyên(vip), Thạch(ga nhat team), Phú(vipro), Nghĩa(vipro), Sơn(vipro), Vũ(vipro)
+## 📊 Organization Insights
+
+
+👉 [Xem thống kê chi tiết](https://next.ossinsight.io/analyze/WWW-Spring?period=past_12_months#overview)
+
+![Top contributors](https://api.ossinsight.io/q/204611/chart.png)
