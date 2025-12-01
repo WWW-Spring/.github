@@ -1,5 +1,5 @@
 # 👋 Welcome to SolidSphere Team
- ## WEBSITE GIỚI THIỆU,BÁN MÁY PC TRỰC TUYẾN ##
+ ## WEBSITE GIỚI THIỆU,BÁN MÁY PC TRỰC TUYẾN ## TEAM 10
 🚀 We are students from IUH working on **Online PC E-commerce Portal**.  
 - Backend: Spring Boot 5, Java 21>, MySQL  
 - Frontend: React.js
@@ -13,7 +13,7 @@ AI chat bot hỗ trợ tư vấn sản phẩm
 <img width="1600" height="1968" alt="image" src="https://github.com/user-attachments/assets/dbcd33f8-fd0e-4453-abab-ac6d41c257f3" />
 
 
-📌 Team:  Đăng(vipro),  Nguyên(vip), Thạch(ga nhat team), Phú(vipro), Nghĩa(vipro), Sơn(vipro), Vũ(vipro)
+📌 Team:  Đăng,  Nguyên Thạch, Phú, Nghĩa, Sơn, Vũ
 ## 📊 Organization Insights
 
 
